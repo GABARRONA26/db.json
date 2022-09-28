@@ -2,7 +2,7 @@
   {
     "name": "Olivia",
     "id": 99,
-    "age":46,
+    "age":46
   },
   {
     "name": "Jonas",
@@ -19,16 +19,16 @@
   {
     "userId": 99,
     "id": 1,
-    "favaritFlower":"rosas"
+    "favoritFlower":"rosas"
   },
   {
     "userId": 100,
     "id": 2,
-    "favoritFlowe": "margaridas"
+    "favoritFlower": "margaridas"
   },
    {
     "userId": 101,
     "id":3 ,
-    "FavoritFlower":"tulipas"
+    "favoritFlower":"tulipas"
   }
 ]
